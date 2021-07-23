@@ -2,7 +2,7 @@ package testing;
 /*
  * This code is for serializing variables that can store permanent data, which can later be written into a save file
  * Date: 6/7/20
- * Author: Raed K, Cole H
+ * Author: Raed K
  */
 public class SaveData implements java.io.Serializable {
 
