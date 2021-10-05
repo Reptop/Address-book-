@@ -1,7 +1,7 @@
 package testing;
 /*This code is for writing data onto a save file and loading data from a save file   
  * Date: 6/7/20
- * Author: Raed K, Cole H
+ * Author: Raed K
  */
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
