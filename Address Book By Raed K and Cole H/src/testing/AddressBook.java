@@ -3,7 +3,7 @@ package testing;
 /*This code is for laying the GUI of the Address book 
 
  *  Date: 6/7/20
- *  Author: Raed K, Cole H
+ *  Author: Raed K
  */
 
 import javax.swing.*;
